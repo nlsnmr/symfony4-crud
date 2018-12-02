@@ -2,9 +2,10 @@
 
 ### A simple Symfony 4 CRUD app With Symfony 4
 
--> Annotations  
+__Template engine__  
 -> Twig  
--> Doctrine  
+__Object Relational Mapper (ORM)__  
+-> Doctrine - ORM  
 
 ## How to start
 
@@ -12,7 +13,7 @@
 # Install dependencies
 composer install
 
-# Edit the env file and add DB params
+# Edit the .env file (or create .env.local) and add DB params
 
 # Create Article schema
 php bin/console doctrine:migrations:diff
@@ -20,6 +21,5 @@ php bin/console doctrine:migrations:diff
 # Run migrations
 php bin/console doctrine:migrations:migrate
 
-# Build for production
-npm run build
+# Check on browser
 ```
