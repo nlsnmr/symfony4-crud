@@ -2,10 +2,8 @@
 
 ### A simple Symfony 4 CRUD app With Symfony 4
 
-__Template engine__  
--> Twig  
-__Object Relational Mapper (ORM)__  
--> Doctrine - ORM  
+__Template engine__: Twig  
+__Object Relational Mapper (ORM)__: Doctrine  
 
 ## How to start
 
