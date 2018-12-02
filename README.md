@@ -1,6 +1,10 @@
 # Symfony CRUD
 
-> A simple Symfony 4 CRUD app With Symfony 4
+### A simple Symfony 4 CRUD app With Symfony 4
+
+-> Annotations  
+-> Twig  
+-> Doctrine  
 
 ## How to start
 
