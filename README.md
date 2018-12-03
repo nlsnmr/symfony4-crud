@@ -17,5 +17,5 @@ php bin/console doctrine:database:create
 # Run migrations
 php bin/console doctrine:migrations:migrate
 
-# Check on browser
+# Create host and Check on browser
 ```
