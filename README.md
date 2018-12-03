@@ -12,9 +12,7 @@ __Object Relational Mapper (ORM)__: Doctrine
 composer install
 
 # Edit the .env file (or create .env.local) and add DB params
-
-# Create Article schema
-php bin/console doctrine:migrations:diff
+php bin/console doctrine:database:create
 
 # Run migrations
 php bin/console doctrine:migrations:migrate
