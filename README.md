@@ -1,6 +1,6 @@
 # Symfony CRUD
 
-### A simple Symfony 4 CRUD app With Symfony 4
+### A simple Symfony 4 CRUD App With Symfony 4
 
 __Template engine__: Twig  
 __Object Relational Mapper (ORM)__: Doctrine  
