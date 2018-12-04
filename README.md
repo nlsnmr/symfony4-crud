@@ -2,10 +2,12 @@
 
 ### A simple CRUD App With Symfony 4 
 
-__Symfony version__: 4
-__Symfony skeleton__: symfony/skeleton
+__Symfony version__: 4  
+__Symfony skeleton__: symfony/skeleton  
 __Template engine__: Twig  
 __Object Relational Mapper (ORM)__: Doctrine  
+
+![crud](https://monosnap.com/image/n5iplADHj0BjV7uGvYVYCC1Sc0YNUh.png "CRUD App With Symfony 4")
 
 ## How to start
 
