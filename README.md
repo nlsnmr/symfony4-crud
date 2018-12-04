@@ -1,7 +1,9 @@
 # Symfony CRUD
 
-### A simple Symfony 4 CRUD App With Symfony 4
+### A simple CRUD App With Symfony 4 
 
+__Symfony version__: 4
+__Symfony skeleton__: symfony/skeleton
 __Template engine__: Twig  
 __Object Relational Mapper (ORM)__: Doctrine  
 
